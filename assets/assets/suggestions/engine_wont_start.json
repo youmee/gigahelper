@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "suggestion": "Проверьте, что рычаг переключения передач находится в положении:\nПаркинг (P) или Нейтральная (N).",
+        "image": "assets/images/neutral_park.jpg"
+    },
+    {
+        "id": 2,
+        "suggestion": "Проверьте, есть ли бензин.",
+        "image": "assets/images/no_fuel.jpg"
+    },
+    {
+        "id": 3,
+        "suggestion": "Аккумулятор не разряжен?",
+        "image": "assets/images/battery_dead.jpg"
+    }
+]
